@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+.color-oring{
+    color: orange;
+}
+.flexible-container{
+  
+    display: flex;
+    margin-bottom: 150px;
+   
+}
+.top-bg{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+
+    width: 50%;
+    padding: 2%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    background-image:linear-gradient(orange,red);
+    color:white;
+    border-radius: 5px;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
