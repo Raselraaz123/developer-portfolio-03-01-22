@@ -66,13 +66,13 @@ p{
     
 }
 #web-developer{
-    border-image:linear-gradient(#4400ff, cyan);
+    border-image:linear-gradient(#FF6510, #FF6549);
     border-image-slice: 1;
     border-left: 10px solid;
     border-radius: 10px;
 }
 #web-developer2{
-    border-image:linear-gradient(#FF6510, #FF6549);
+    border-image:linear-gradient(#4400ff, cyan);
     border-image-slice: 1;
     border-left: 10px solid;
     border-radius: 10px;
