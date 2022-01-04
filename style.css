@@ -66,15 +66,18 @@ p{
     
 }
 #web-developer{
-    border-image:linear-gradient(red,rgb(247, 75, 89));
+    border-image:linear-gradient(#4400ff, cyan);
     border-image-slice: 1;
     border-left: 10px solid;
     border-radius: 10px;
 }
 #web-developer2{
-    border-image:linear-gradient(#4400ff,#4be3f7);
+    border-image:linear-gradient(#FF6510, #FF6549);
     border-image-slice: 1;
     border-left: 10px solid;
     border-radius: 10px;
+}
+.footer{
+    text-align: center;
 }
 
